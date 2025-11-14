@@ -182,7 +182,7 @@ Para executar o projeto, siga os passos abaixo:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/ignite-timer.git
+git clone https://github.com/gustavuhh1/02-ignite-timer.git
 ```
 
 2. Instale as dependências
